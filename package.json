@@ -1,0 +1,8 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Javier Pérez <surtich@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
